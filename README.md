@@ -1,1 +1,1 @@
-# Covid_detection
+# Covid_detection_using_Xray_images
